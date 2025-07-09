@@ -1,0 +1,18 @@
+.grid{
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid div {
+    width:56px;
+    height:56px;
+    border: 1px solid black;
+}
+.duck {
+    background-image: url('../assets/goose-pixel-art-icon-farm-bird-duck-logo-8bit-sprite_418367-193.avif');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
